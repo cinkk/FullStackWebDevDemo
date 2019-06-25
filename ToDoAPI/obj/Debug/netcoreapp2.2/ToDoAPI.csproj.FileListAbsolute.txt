@@ -1,0 +1,14 @@
+C:\Users\fernandn\Documents\API stuf\ToDoAPI\ToDoAPI\bin\Debug\netcoreapp2.2\ToDoAPI.deps.json
+C:\Users\fernandn\Documents\API stuf\ToDoAPI\ToDoAPI\bin\Debug\netcoreapp2.2\ToDoAPI.runtimeconfig.json
+C:\Users\fernandn\Documents\API stuf\ToDoAPI\ToDoAPI\bin\Debug\netcoreapp2.2\ToDoAPI.runtimeconfig.dev.json
+C:\Users\fernandn\Documents\API stuf\ToDoAPI\ToDoAPI\bin\Debug\netcoreapp2.2\ToDoAPI.dll
+C:\Users\fernandn\Documents\API stuf\ToDoAPI\ToDoAPI\bin\Debug\netcoreapp2.2\ToDoAPI.pdb
+C:\Users\fernandn\Documents\API stuf\ToDoAPI\ToDoAPI\obj\Debug\netcoreapp2.2\ToDoAPI.csprojAssemblyReference.cache
+C:\Users\fernandn\Documents\API stuf\ToDoAPI\ToDoAPI\obj\Debug\netcoreapp2.2\ToDoAPI.csproj.CoreCompileInputs.cache
+C:\Users\fernandn\Documents\API stuf\ToDoAPI\ToDoAPI\obj\Debug\netcoreapp2.2\ToDoAPI.RazorAssemblyInfo.cache
+C:\Users\fernandn\Documents\API stuf\ToDoAPI\ToDoAPI\obj\Debug\netcoreapp2.2\ToDoAPI.RazorAssemblyInfo.cs
+C:\Users\fernandn\Documents\API stuf\ToDoAPI\ToDoAPI\obj\Debug\netcoreapp2.2\ToDoAPI.AssemblyInfoInputs.cache
+C:\Users\fernandn\Documents\API stuf\ToDoAPI\ToDoAPI\obj\Debug\netcoreapp2.2\ToDoAPI.AssemblyInfo.cs
+C:\Users\fernandn\Documents\API stuf\ToDoAPI\ToDoAPI\obj\Debug\netcoreapp2.2\ToDoAPI.RazorTargetAssemblyInfo.cache
+C:\Users\fernandn\Documents\API stuf\ToDoAPI\ToDoAPI\obj\Debug\netcoreapp2.2\ToDoAPI.dll
+C:\Users\fernandn\Documents\API stuf\ToDoAPI\ToDoAPI\obj\Debug\netcoreapp2.2\ToDoAPI.pdb
